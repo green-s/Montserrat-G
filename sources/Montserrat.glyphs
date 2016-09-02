@@ -1,7 +1,8 @@
 {
 .appVersion = "895";
 DisplayStrings = (
-G
+G,
+H
 );
 copyright = "Copyright (c) 2011-2016 The Montserrat Project Authors (julieta.ulanovsky@gmail.com)";
 customParameters = (
@@ -4505,7 +4506,7 @@ rightKerningGroup = F.ss01;
 },
 {
 glyphname = G;
-lastChange = "2016-08-31 04:51:51 +0000";
+lastChange = "2016-09-02 15:23:29 +0000";
 layers = (
 {
 anchors = (
@@ -4554,12 +4555,12 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"409 340 LINE",
+"410 340 LINE",
 "630 340 LINE",
 "630 91 LINE",
 "650 91 LINE",
-"650 358 LINE",
-"409 358 LINE"
+"650 360 LINE",
+"410 360 LINE"
 );
 }
 );
@@ -4612,12 +4613,12 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"395 260 LINE",
-"503 260 LINE",
+"400 250 LINE",
+"505 250 LINE",
 "503 80 LINE",
 "702 80 LINE",
-"702 385 LINE",
-"395 385 LINE"
+"700 401 LINE",
+"400 401 LINE"
 );
 }
 );
@@ -4670,12 +4671,12 @@ nodes = (
 {
 closed = 1;
 nodes = (
-"405 298 LINE",
-"571 298 LINE",
+"400 300 LINE",
+"570 300 LINE",
 "571 86 LINE",
 "674 86 LINE",
-"674 392 LINE",
-"405 392 LINE"
+"675 400 LINE",
+"400 400 LINE"
 );
 }
 );
